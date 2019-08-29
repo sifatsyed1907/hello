@@ -2,5 +2,6 @@
 
 int main(int argc, char **argv){
 printf("Hello World!");
-  printf("Sifat Syed, Major: Computer Science");
+  printf("Sifat Syed, Major: Computer Science\n");
+  printf("Invitation Successful\n");
 }
